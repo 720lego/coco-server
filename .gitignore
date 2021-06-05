@@ -4,3 +4,5 @@ node_modules
 run
 rpc-*
 package-lock.json
+.DS_Strore
+*.DS_Strore
